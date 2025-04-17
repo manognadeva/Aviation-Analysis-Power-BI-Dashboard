@@ -1,6 +1,6 @@
 # Aviation-Analysis-Power-BI-Dashboard
 
-This repository showcases an in-depth **Power BI dashboard project** that analyzes the global and U.S. aviation industry. The project provides a multi-faceted view of how the aviation sector has evolved over time — particularly before, during, and after the COVID-19 pandemic — by examining metrics like **passenger volume, revenue, profit margins, operational performance, and delay causes**.
+This **Power BI dashboard project** analyzes the global and U.S. aviation industry. The project provides a multi-faceted view of how the aviation sector has evolved over time — particularly before, during, and after the COVID-19 pandemic — by examining metrics like **passenger volume, revenue, profit margins, operational performance, and delay causes**.
 
 ---
 

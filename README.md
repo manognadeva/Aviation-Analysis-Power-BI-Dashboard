@@ -89,7 +89,7 @@ This dashboard answers key business questions such as:
 
 ## 📎 How to View
 
-[CLick here to view the Power BI report](https://app.powerbi.com/reportEmbed?reportId=ebe6166b-0f33-44f6-a937-7edbdccf496b&autoAuth=true&ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
+[CLick here to view the Power BI report](https://app.powerbi.com/links/8RIQsqz8ib?ctid=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&pbi_source=linkShare&bookmarkGuid=f8bb2b58-c0c5-4937-a68c-0589c214acde)
 
 Alternatively, download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to explore the dashboard interactively.
 
